@@ -1,0 +1,60 @@
+.btn{
+    background-color:#18840D ;
+    color: white;
+    text-align: center;
+    font-size: 0.875rem;
+}
+.enlarged-btn{
+    background-color:#18840D ;
+    color: white;
+    text-align: center;
+    font-size: 0.875rem;
+    padd
+}
+.content{
+    padding: 7rem 0;
+}
+.brand{
+    color: var(--Black, #18071C);
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-weight: 700;
+}
+.brand-p{
+    color: var(--shades-black-white-black, #020D01);
+    font-family: DM Sans;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.8;
+    letter-spacing: 0.015625;
+}
+.services{
+    color: var(--Black, #18071C);
+    font-family: Poppins;
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+.examples{
+    color: var(--Black, #18071C);
+    font-family: DM Sans;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.8;
+    letter-spacing: 0.015625;
+}
+.borderline{
+    border-top: 1px solid white;
+    color: var(--primary-color-green-50, #18840D);
+    font-family: Poppins;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5rem; 
+    padding-top: 5rem;
+    text-align: center;
+    justify-content: center;
+}
+@media(max-width:68rem){
+    .referencing{
+        padding-top: 5rem;
+    }
+}
